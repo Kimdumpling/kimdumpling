@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://blog.naver.com/gasna2000/222907370065/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src="https://blog.naver.com/gasna2000/222907370065-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
