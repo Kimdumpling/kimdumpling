@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="Csharp" src ="https://www.instagram.com/know_kyung/-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+<img alt="Csharp" src ="https://www.instagram.com/know_kyung/-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
 
