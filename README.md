@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 <img alt="Csharp" src ="https://www.instagram.com/know_kyung/-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
-
+<img src="https://www.instagram.com/know_kyung/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
