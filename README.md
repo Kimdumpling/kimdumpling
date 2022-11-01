@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 <!--
 **Kimdumpling/kimdumpling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 Here are some ideas to get you started:
@@ -16,5 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://blog.naver.com/gasna2000/222907370065-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-<img src="https://img.shields.io/badge/Python-#ECD53F?style=for-the-badge&logo=Instagram&logoColor=white">
